@@ -1028,3 +1028,12 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+		.avatar >img{
+			height: 20em;
+		}
+		.contact_button {
+			margin-bottom:10px;
+		}
+#contact-form {
+display: none;
+}
